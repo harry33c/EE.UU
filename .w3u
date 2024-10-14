@@ -6,7 +6,6 @@
 
 "stations": [
 
-
 {"name":"TELEMUNDO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrln0hTgYBRdiElBM7jc7wRmlrlLRwSq1hsA&usqp=CAU", 
 
 "url":"http://cdn1host.online:2999/live/happy2024/newyear/281.ts"},
